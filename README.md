@@ -6,6 +6,7 @@
 
 
 Three folders are provided:
+
 	-Messages: Contains some square images that can be concealed using the LSB method.
 			   This folder also contains some text messages samples.
 			   
@@ -20,5 +21,6 @@ Three folders are provided:
 					
 **NOTE: DCT (jsteg method) DOES NOT handle image concealing due to the restriction in storage capacity
 
-For more information on how to opperate the GUI please refer to section 4 of the "Steganogragy: Concealing Data Within an Image", by David Sevilla
+For more information on how to opperate the GUI please refer to section 4 of the "Steganogragy: Concealing Data Within an Image", by David Sevilla.
+(SevillaCazes_David_EECE5626_project_report.pdf)
 	
